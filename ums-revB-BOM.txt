@@ -1,0 +1,175 @@
+Partlist
+
+Exported from ums.brd at 18.8.2019 14.54
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part         Value                      Package      Library               Position (mm)         Orientation
+
+AUDLED                                  LED3MM       led                   (49.1 4.1)            R0
+C1           22p                        C1206K       resistor              (61.2 9.34)           R270
+C2           22p                        C1206K       resistor              (61.38 18.86)         R90
+C5           100n                       C1206K       resistor              (62.4 33.8)           MR0
+C6           4u7                        C1206K       resistor              (88.6 41.4)           MR90
+C7           10u                        C1206K       resistor              (90.2 11.8)           MR180
+C8           4u7                        C1206K       resistor              (83.8 18.4)           R0
+C9           4u7                        C1206K       resistor              (82.2 24.9)           R0
+C10          *                          C1206K       resistor              (67.6 28.9)           MR0
+C11          *                          C1206K       resistor              (83.8 27.5)           MR180
+C12          100n                       C1206K       resistor              (88.8 37)             MR180
+C13          *100n                      C1206K       resistor              (87.8 3.9)            R270
+C14          *100n                      C1206K       resistor              (69.9 23)             R180
+C15          *                          C0805        resistor              (92.9 28.4)           MR180
+C16          *                          C1206K       resistor              (84.1 13.6)           MR90
+C17          100n                       C0805        resistor              (84.8 37.6)           MR270
+C18          1u                         C1206        resistor              (77 42)               MR90
+C19          100n                       C0805        resistor              (60.1 32.6)           R270
+C20          100n                       C0805        resistor              (27.5 35.4)           R90
+C21          100n                       C0805        resistor              (17.7 42)             R90
+C22          100n                       C0805        resistor              (83.7 31.1)           R90
+C23          22u                        D/7343-31W   rcl                   (6.7 32.7)            R0
+C24          100n                       C0805        resistor              (84.3 20.7)           R0
+C25          *                          C0805        resistor              (80.6 30)             R90
+C26          10u                        153CLV-0605  rcl                   (84.8 20.8)           MR270
+C27          22p                        C1206K       resistor              (28.6 27.3)           R270
+C28          22p                        C1206K       resistor              (35.8 12.3)           R90
+C29          100n                       C0805        resistor              (27.3 10.2)           R270
+C30          100n                       C0805        resistor              (24 6.4)              R90
+C31          100n                       C1206        resistor              (29.6 21.3)           R270
+C32          22p                        C1206K       resistor              (38.7 23.5)           MR0
+C33          22p                        C1206K       resistor              (29.5 32.2)           MR180
+C34          100n                       C0805        resistor              (23 16.9)             MR90
+C35          100n                       C0805        resistor              (28.9 5.9)            R180
+C36          100n                       C0805        resistor              (26 11.9)             MR0
+C37          470n                       C0805        resistor              (25.2 23.9)           MR0
+C38          100n                       C0805        resistor              (8.7 5.6)             R90
+C39          100n                       C0805        resistor              (25.7 10.2)           R270
+C40          22u                        SMC_B        rcl                   (31.4 33.8)           R270
+C41          100n                       C0805        resistor              (20.9 6.1)            R0
+C42          10u                        C0805        resistor              (14.2 19.6)           R90
+C43          100n                       C0805        resistor              (22.1 7.1)            MR0
+C44          100n                       C0805        resistor              (19.8 25.8)           R0
+C45          22u                        D/7343-31W   rcl                   (13.3 38.7)           R270
+C46          100n                       C0805        resistor              (51.1 12.2)           R180
+C47          100n                       C0805        resistor              (56.8 10.6)           R90
+C48          100n                       C0805        resistor              (43 12.3)             R180
+C49          100n                       C0805        resistor              (46.8 12)             R180
+C50          100n                       C0805        resistor              (27.9 41.3)           R270
+C51          100n                       C0805        resistor              (37.1 32.5)           R270
+C52          100n                       C0805        resistor              (40.7 32.5)           R270
+C53          100n                       C0805        resistor              (40.8 22.1)           R270
+C54          100n                       C1206        resistor              (54.8 10.3)           R270
+C55          22u                        C/6032-28R   rcl                   (13.1 11.1)           R270
+C56          10u                        SMC_B        rcl                   (44.4 10.2)           MR0
+C57          22u                        CT6032       rcl                   (40.7 7.2)            R0
+C58          *                          C1206K       resistor              (62.1 3.9)            MR270
+C60          100n                       C0805        resistor              (45 21.8)             MR0
+C61          100n                       C0805        resistor              (39.8 16)             R90
+C62          10u                        153CLV-0605  rcl                   (83.4 32.2)           MR0
+C63          10u                        153CLV-0605  rcl                   (63.8 24.2)           MR270
+C64          22u                        153CLV-0605  rcl                   (58 9.7)              MR180
+C65          10u                        153CLV-0605  rcl                   (74.3 12.3)           MR0
+C66          22u                        153CLV-0605  rcl                   (76 5.1)              MR180
+C67          *                          C0805        resistor              (79.5 36.8)           MR0
+CTS                                     SMD1,27-2,54 wirepad               (39.5 14.5)           MR270
+D1           1N4148                     SOD123       diode                 (75.2 22.6)           R180
+D2           1N4148                     SOD323-W     diode                 (86.3 28.1)           R90
+D3                                      DO214AC      diode                 (14 29)               R180
+D4                                      DO214AC      diode                 (73.1 32.1)           R90
+DCD                                     SMD1,27-2,54 wirepad               (35.3 9.2)            MR270
+DSR                                     SMD1,27-2,54 wirepad               (35.3 13)             MR270
+DTR                                     SMD1,27-2,54 wirepad               (30.6 11.9)           MR0
+F1           1A                         TE5          fuse                  (13.6 24.9)           R0
+GIN          100k                       RTRIMT93YA   rcl                   (71.5 0)              R90
+GOUT         100k                       RTRIMT93YA   rcl                   (81.9 0)              R90
+H1           MOUNT-PAD-ROUND3.0         3,0-PAD      holes                 (94.7 40)             R0
+H2           MOUNT-PAD-ROUND3.0         3,0-PAD      holes                 (4.7 40)              R0
+H3           MOUNT-PAD-ROUND3.0         3,0-PAD      holes                 (4.7 0)               R270
+H4           MOUNT-PAD-ROUND3.0         3,0-PAD      holes                 (94.7 0)              R0
+IC1          TL062D                     SO08         linear                (73.8 21.5)           MR270
+IC2          MAX3232ESE                 SO16         maxim                 (47.1 17.8)           R0
+IC3          LM1117MP-3.3               SOT223       lm1117_10             (21.6 37.5)           R90
+IC4          GL850G-31                  TSSOP28      pimoroni              (23.6 18.1)           R180
+JP1                                     1X06         pinhead               (97 19.2)             R270
+JP2                                     1X02         pinhead               (72.7 40.3)           R90
+JP3                                     1X02         pinhead               (82.8 7.5)            R180
+J_PSELF                                 SJ           jumper                (15 20.5)             MR0
+J_PSELF1                                SJ           jumper                (43.1 1.8)            MR270
+J_PSELF2                                SJ           jumper                (9 3.8)               MR180
+L1                                      SM-1206      inductor-neosid       (22.1 42.5)           R0
+L3                                      SM-B5        inductor-neosid       (21.6 9.5)            R0
+PTTLED                                  LED3MM       led                   (58 4)                R0
+PWR                                     CHIPLED_0805 led                   (66.7 30.6)           R270
+PWRLED                                  LED3MM       led                   (53.6 4)              R0
+PWR_HEADER                              1X03         pinhead               (34.5 39.4)           R90
+Q1           12.000M                    SM49         crystal               (65.42 13.3)          R270
+Q2           12.000M                    SM49         crystal               (33 21.2)             R270
+Q3           12.000M                    SM49         crystal               (34.8 28.1)           MR0
+R1           100k                       R1206        resistor              (73.3 32.1)           MR180
+R2           10k                        R1206        resistor              (73.35 4.64)          R0
+R3           0R                         R1206        resistor              (81.4 12.6)           MR270
+R4           0R                         R1206        resistor              (72 17)               MR180
+R5           1M                         R1206        resistor              (61.1 14)             R270
+R6           22                         R1206        resistor              (67 26)               R0
+R7           22                         R1206        resistor              (73 27.7)             R0
+R8           100k                       R1206        resistor              (81.1 41)             MR270
+R9           100k                       R1206        resistor              (84.9 42.1)           MR270
+R10          100k                       R1206        resistor              (73.8 36.3)           MR180
+R11          330                        R1206        resistor              (62.7 4.6)            R180
+R12          330                        R1206        resistor              (61.3 0.2)            R180
+R13          330                        R1206        resistor              (44.4 1.5)            R90
+R14          1k5                        R1206        resistor              (79.3 26.7)           R0
+R15          0R                         R1206        resistor              (74.7 27.2)           MR180
+R16          1k                         R1206        resistor              (86.1 3.3)            MR90
+R17          0R                         R1206        resistor              (69.9 5.8)            MR90
+R18          1k                         R1206        resistor              (65.1 6)              MR270
+R19          680 ohm                    R0805        rcl                   (34.5 7.7)            R90
+R20          4k7                        R0805        resistor              (32 7.1)              MR0
+R21          0R                         R1206        resistor              (71.9 25.4)           MR0
+R22          10k                        R1206        rcl                   (24.3 24)             R0
+R23          3k3                        R0805        resistor              (63.2 32.7)           R90
+R24          1k                         R0805        resistor              (13.8 28.3)           MR0
+RI                                      SMD1,27-2,54 wirepad               (37.2 11.1)           MR270
+RS232_SERIAL                            1X04         pinhead               (52.9 33.5)           R0
+RTS                                     SMD1,27-2,54 wirepad               (28.7 12.8)           MR0
+SJ1                                     SJ           jumper                (3.4 4.7)             MR0
+SJ2                                     SJ           jumper                (5.5 35.4)            MR0
+SJ3                                     SJ           jumper                (96.4 35.2)           MR0
+SJ4                                     SJ           jumper                (96.3 5.5)            MR90
+SJ5                                     SJ           jumper                (84.4 14.8)           R180
+SOUND                                   F09HP        subd-modified         (91.7 20.1)           R270
+STATUS_LEDS                             1X04         pinhead               (51.1 0.2)            R180
+T1           BC848                      SOT23-BEC    transistor            (78.5 4.5)            R270
+TP1          TPB1,27                    B1,27        testpad               (82.1 12.7)           R90
+TP2          TPB1,27                    B1,27        testpad               (69.7 14.4)           MR0
+TP3          TPB1,27                    B1,27        testpad               (83.8 11)             MR0
+TP4          TPB1,27                    B1,27        testpad               (80.3 24.1)           MR0
+TP5          TPB1,27                    B1,27        testpad               (70.7 21)             R0
+TP6          TPB1,27                    B1,27        testpad               (69 21.4)             R0
+TP7          TPB1,27                    B1,27        testpad               (73.1 30.2)           MR0
+TP11         TPB1,27                    B1,27        testpad               (78.4 16.3)           MR0
+TP12         TPB1,27                    B1,27        testpad               (83.9 3.4)            R0
+TP13         TPB1,27                    B1,27        testpad               (63.2 1.7)            R0
+TP14         TPB1,27                    B1,27        testpad               (79.4 10.4)           R0
+TP15         TPB1,27                    B1,27        testpad               (36.8 19.1)           R0
+TP16         TPB1,27                    B1,27        testpad               (38.6 21.3)           R270
+TP17         TPB1,27                    B1,27        testpad               (16.1 18.3)           R0
+TP18         TPB1,27                    B1,27        testpad               (52.5 20.9)           R0
+TP19         TPB1,27                    B1,27        testpad               (68.8 18.5)           R0
+TP20         TPB1,27                    B1,27        testpad               (74.7 9.5)            R0
+TP21         TPB1,27                    B1,27        testpad               (73.1 24.3)           R0
+TP22         TPB1,27                    B1,27        testpad               (68.5 6.6)            R0
+TP25         TPB1,27                    B1,27        testpad               (52.7 14)             R0
+TTL_SERIAL                              1X04         pinhead               (56.6 18.6)           R270
+U$1          CM-108                     LQFP-48      cm-108                (74.92 15.93)         R270
+U$6          CH340G                     SOIC16       ch340g                (31.3 18.4)           MR180
+USB          MINI-USB-SCHIELD-32005-201 32005-201    con-cypressindustries (5.9 16.5)            R0
+USB-P1       USB-A-H                    USB-A-H      con-usb               (33.8 1)              R90
+USB-P2       USB-A-H                    USB-A-H      con-usb               (17 1.1)              R90
+USB1                                    1X04         pinhead               (17.1 1.1)            R180
+USB2                                    1X04         pinhead               (33.9 1)              R0
+USB_PINS                                2X02         pinhead               (4.9 26.3)            R0
+VCC_SEL                                 1X03         pinhead               (22.7 30)             R0
+X2                                      M09HP        con-subd              (53.8 38.2)           R180
