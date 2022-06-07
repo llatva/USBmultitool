@@ -5,4 +5,6 @@ Schematic (analog parts): Veli-Matti OH7JEV & Eero OH2BTG
 
 Layout design: Lasse OH3HZB (me)
 
+Licensed under CC-BY 4.0, see https://creativecommons.org/licenses/by/4.0/
+
 ![Photo](umt-photo.jpg)
